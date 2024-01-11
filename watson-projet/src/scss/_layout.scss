@@ -78,3 +78,43 @@
     display: none;
   }
 }
+
+.introduction {
+  display: block;
+}
+
+@media (max-width: 767px) {
+  .introduction {
+    display: none;
+  }
+}
+
+.introduction-mobile {
+  display: block;
+}
+
+@media (min-width: 767px) {
+  .introduction-mobile {
+    display: none;
+  }
+}
+
+.actuality {
+  display: block;
+}
+
+@media (max-width: 767px) {
+  .actuality {
+    display: none;
+  }
+}
+
+.actuality-mobile {
+  display: block;
+}
+
+@media (min-width: 767px) {
+  .actuality-mobile {
+    display: none;
+  }
+}

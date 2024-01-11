@@ -1,0 +1,87 @@
+.introduction {
+  padding: 18px 31px 77px 36px;
+  background-color: black;
+  color: white;
+  padding-top: 45px;
+}
+
+.introduction h2 {
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.introduction h3 {
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+
+  margin-right: 50px;
+}
+
+.introduction p {
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+  margin-top: 22px;
+  margin-right: 50px;
+}
+
+.introduction img {
+  margin: 25px 0;
+}
+
+.hiding-button-mobile {
+  height: 28px;
+  border: 1px white solid;
+}
+
+.hiding-button-mobile a {
+  text-decoration: none;
+}
+
+.introduction-mobile {
+  margin: 20px 15px;
+}
+
+.introduction-mobile h2 {
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.introduction-mobile h3 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+
+  margin-right: 50px;
+  margin-bottom: 10px;
+}
+
+.introduction-mobile .date p {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.introduction-mobile p {
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+
+.button-details a {
+  color: white;
+  text-decoration: none;
+  border: 1px black solid;
+}
+
+.button-details {
+  height: 25px;
+  background-color: black;
+  margin-bottom: 20px;
+}
