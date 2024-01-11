@@ -1,0 +1,40 @@
+// Header index
+.desktop-header {
+  display: block;
+}
+
+@media (max-width: 750px) {
+  .desktop-header {
+    display: none;
+  }
+}
+
+.mobile-header {
+  display: block;
+}
+
+@media (min-width: 750px) {
+  .mobile-header {
+    display: none;
+  }
+}
+
+.hiding-image img {
+  display: block;
+}
+
+@media (max-width: 750px) {
+  .hiding-image img {
+    display: none;
+  }
+}
+
+.hiding-text p {
+  display: block;
+}
+
+@media (max-width: 750px) {
+  .hiding-text p {
+    display: none;
+  }
+}
