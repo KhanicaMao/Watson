@@ -58,3 +58,23 @@
     display: none;
   }
 }
+
+.hiding-content {
+  display: block;
+}
+
+@media (min-width: 992px) {
+  .hiding-content {
+    display: none;
+  }
+}
+
+.show-image img {
+  display: block;
+}
+
+@media (max-width: 992px) {
+  .show-image img {
+    display: none;
+  }
+}
