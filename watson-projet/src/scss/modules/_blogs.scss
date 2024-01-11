@@ -19,12 +19,30 @@
   margin: 0 55px 20px 15px;
 }
 
+@media (min-width: 767px) {
+  .blogs h2 {
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 700;
+  }
+}
+
 .article-1-blogs h3 {
   font-size: 16px;
   font-style: normal;
 
   margin-left: 15px;
   margin-top: 20px;
+}
+
+@media (min-width: 767px) {
+  .article-1-blogs h3 {
+    font-size: 20px;
+    font-style: normal;
+
+    margin-left: 15px;
+    margin-top: 20px;
+  }
 }
 
 .article-1-blogs p {

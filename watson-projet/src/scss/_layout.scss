@@ -39,6 +39,16 @@
   }
 }
 
+.hiding-text-mobile p {
+  display: block;
+}
+
+@media (min-width: 767px) {
+  .hiding-text-mobile p {
+    display: none;
+  }
+}
+
 .hiding-button a {
   display: none;
 }
